@@ -8,6 +8,7 @@ public class HolaGit {
 		System.out.println("A ver que pasa");
 		System.out.println("Nueva rama");
 		System.out.println("Nueva rama adios");
+		System.out.println("Hola soy user 2");
 
 	}
 
